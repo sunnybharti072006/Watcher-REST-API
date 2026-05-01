@@ -89,9 +89,8 @@ Based on the name "Watcher-REST-API" and general Spring Boot REST API patterns:
 
 ---
 
-## 📋 GENERATED README.md
 
-# 🚀 Watcher-REST-API
+#  Watcher-REST-API
 
 <div align="center">
 
