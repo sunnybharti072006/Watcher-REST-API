@@ -411,12 +411,7 @@ This project is licensed under the **[MIT License](LICENSE)**. See the `LICENSE`
 -   **Maven**: For robust project build automation.
 -   **The maintainers and contributors of all open-source libraries** used in this project.
 
-## 📞 Support & Contact
 
--   📧 Email: [contact@example.com] <!-- TODO: Add actual contact email -->
--   🐛 Issues: [GitHub Issues](https://github.com/sunnybharti072006/Watcher-REST-API/issues)
-
----
 
 <div align="center">
 
